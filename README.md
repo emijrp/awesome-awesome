@@ -24,7 +24,7 @@ A curated list of awesome curated lists of many topics.
 
 *Awesome about some well-known sites.*
 
-* [awesome-wikipedia]
+* [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) - Datasets, frameworks, libraries and other software related to Wikipedia.
 
 # Contributing
 
