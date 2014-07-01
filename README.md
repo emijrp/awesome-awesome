@@ -13,7 +13,7 @@ A curated list of awesome curated lists of things.
 
 * [awesome-php](https://github.com/ziadoz/awesome-php)
 * [awesome-python](https://github.com/vinta/awesome-python)
-* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
+* [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - Backups, configuration management, DNS, IMAP/POP3, LDAP, monitoring, SSH, statistics, troubleshooting, virtualization, VPN, and more.
 
 # Contributing
 
