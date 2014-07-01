@@ -1,6 +1,6 @@
 # Awesome Awesome
 
-A curated list of awesome curated lists of things.
+A curated list of awesome curated lists of many topics.
 
 
 - [Awesome Awesome](#awesome-awesome)
