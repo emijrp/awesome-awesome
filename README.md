@@ -4,8 +4,12 @@ A curated list of awesome curated lists of many topics.
 
 - [Awesome Awesome](#awesome-awesome)
     - [Computer management](#computer-management)
+    - [Data processing](#data-processing)
     - [Programming languages](#programming-languages)
+    - [Sciences](#sciences)
+    - [Web browsers](#web-browsers)
     - [Websites](#websites)
+    - [Other](#other)
 - [Contributing](#contributing)
 
 ## Computer management
