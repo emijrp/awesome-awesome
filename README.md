@@ -64,4 +64,4 @@ A curated list of awesome curated lists of many topics.
 
 # Contributing
 
-For contributing, open an issue/pull request.
+For contributing, [open an issue](https://github.com/emijrp/awesome-awesome/issues)/[pull request](https://github.com/emijrp/awesome-awesome/pulls).
