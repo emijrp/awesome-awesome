@@ -35,7 +35,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-php](https://github.com/ziadoz/awesome-php) - Frameworks, templating, URL, e-mail, files, imagery, testing, security, documentation, geolocation, date, PDF, search, authentication and more.
 * [awesome-python](https://github.com/vinta/awesome-python) - Files, dates, text processing, NLP, imagery, audio, video, geolocation, web frameworks, OAuth, web crawling, networking, GUI, game development, testing, science and data analysis, machine learning and more.
 * [awesome-R] - Not yet! Do it yourself!
-* [awesome-ruby] - Ruby libraries, tools, frameworks and software
+* awesome-ruby - Ruby libraries, tools, frameworks and software
     - [@markets](https://github.com/markets/awesome-ruby)
     - [@Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
 * [awesome-scala](https://github.com/lauris/awesome-scala) - Scala frameworks, libraries and software.
@@ -64,4 +64,4 @@ A curated list of awesome curated lists of many topics.
 
 # Contributing
 
-For contributing, [open an issue](https://github.com/emijrp/awesome-awesome/issues)/[pull request](https://github.com/emijrp/awesome-awesome/pulls).
+For contributing, [open an issue](https://github.com/emijrp/awesome-awesome/issues) and/or a [pull request](https://github.com/emijrp/awesome-awesome/pulls). Above there are some ideas for missing lists, be bold!
