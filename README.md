@@ -29,15 +29,15 @@ A curated list of awesome curated lists of many topics.
 * [awesome-d](https://github.com/zhaopuming/awesome-d) - D frameworks, libraries and software.
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir) - Elixir libraries, resources and shiny things.
 * [awesome-go](https://github.com/avelino/awesome-go) - Go frameworks, libraries and software.
-* [awesome-java] - Not yet! Do it yourself!
+* [awesome-java](https://github.com/akullpp/awesome-java) - Build tool, code analysis, database, GUI, IDE, JSON, machine learning, PDF, science, testing, web crawling and more.
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - JavaScript libraries, resources and shiny things.
 * [awesome-perl] - Not yet! Do it yourself!
 * [awesome-php](https://github.com/ziadoz/awesome-php) - Frameworks, templating, URL, e-mail, files, imagery, testing, security, documentation, geolocation, date, PDF, search, authentication and more.
 * [awesome-python](https://github.com/vinta/awesome-python) - Files, dates, text processing, NLP, imagery, audio, video, geolocation, web frameworks, OAuth, web crawling, networking, GUI, game development, testing, science and data analysis, machine learning and more.
 * [awesome-R] - Not yet! Do it yourself!
 * [awesome-ruby] - Ruby libraries, tools, frameworks and software
-** [@markets](https://github.com/markets/awesome-ruby)
-** [@Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
+    - [@markets](https://github.com/markets/awesome-ruby)
+    - [@Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
 * [awesome-scala](https://github.com/lauris/awesome-scala) - Scala frameworks, libraries and software.
 
 ## Sciences
