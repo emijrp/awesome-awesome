@@ -39,6 +39,7 @@ A curated list of awesome curated lists of many topics.
     - [@markets](https://github.com/markets/awesome-ruby)
     - [@Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
 * [awesome-scala](https://github.com/lauris/awesome-scala) - Scala frameworks, libraries and software.
+* [awesome-swift](https://awesome-swift.zeef.com/robin.eggenkamp) - Swift documentation, projects, tutorials, updates, etc
 
 ## Sciences
 
