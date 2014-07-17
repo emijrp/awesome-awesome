@@ -25,6 +25,7 @@ A curated list of awesome curated lists of many topics.
 ## Programming languages
 
 * [awesome-c] - Not yet! Do it yourself!
+* [awesome-cpp] - C++ frameworks, libraries, resources, and shiny things.
 * [awesome-clojure](https://github.com/razum2um/awesome-clojure) - Package management, audio, HTTP, database, websocket and testing.
 * [awesome-d](https://github.com/zhaopuming/awesome-d) - Build tools, compilers, IDE, GUI, database clients.
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir) - Elixir libraries, resources and shiny things.
