@@ -45,6 +45,8 @@ A curated list of awesome curated lists of many topics.
 ## Sciences
 
 * [awesome-biology] - Not yet! Do it yourself!
+* [awesome-chemistry] - Not yet! Do it yourself!
+* [awesome-geography] - Not yet! Do it yourself!
 * [awesome-math] - Not yet! Do it yourself!
 * [awesome-physics] - Not yet! Do it yourself!
 
