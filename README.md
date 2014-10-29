@@ -9,6 +9,7 @@ A curated list of awesome curated lists of many topics.
     - [Sciences](#sciences)
     - [Web browsers](#web-browsers)
     - [Websites](#websites)
+    - [Web Platforms](#web-platforms)
     - [Other](#other)
 - [Contributing](#contributing)
 
@@ -61,6 +62,10 @@ A curated list of awesome curated lists of many topics.
 * [awesome-twitter] - Not yet! Do it yourself!
 * [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) - Datasets, frameworks, libraries and other software related to Wikipedia.
 * [awesome-youtube] - Not yet! Do it yourself!
+
+## Web platforms
+
+* [awesome-dojo](https://github.com/peterkokot/awesome-dojo) - Dojo JavaScript Toolkit
 
 ## Other
 
