@@ -26,6 +26,7 @@ A curated list of awesome curated lists of many topics.
 ## Programming languages
 
 * [awesome-clojure](https://github.com/razum2um/awesome-clojure) - Package management, audio, HTTP, database, websocket and testing.
+* [awesome-c](https://github.com/kozross/awesome-c) - C frameworks, libraries, resources and other cool stuff.
 * [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - C/C++ frameworks, libraries, and resources.
 * [awesome-cobol](https://github.com/dshimy/awesome-cobol) - Web frameworks, template engine, forms, authentication & OAuth, database, e-mail, messaging, imagery, text processing, machine learning, testing, audio, video and logging.
 * [awesome-d](https://github.com/zhaopuming/awesome-d) - Build tools, compilers, IDE, GUI, database clients.
