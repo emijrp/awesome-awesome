@@ -29,6 +29,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-c](https://github.com/kozross/awesome-c) - C frameworks, libraries, resources and other cool stuff.
 * [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - C/C++ frameworks, libraries, and resources.
 * [awesome-cobol](https://github.com/dshimy/awesome-cobol) - Web frameworks, template engine, forms, authentication & OAuth, database, e-mail, messaging, imagery, text processing, machine learning, testing, audio, video and logging.
+* [awesome-common-lisp](https://github.com/kozross/awesome-cl) - Common Lisp frameworks, libraries, resources and other shinies.
 * [awesome-d](https://github.com/zhaopuming/awesome-d) - Build tools, compilers, IDE, GUI, database clients.
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir) - Elixir libraries, resources and shiny things.
 * [awesome-go](https://github.com/avelino/awesome-go) - Go frameworks, libraries and software.
