@@ -35,6 +35,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-go](https://github.com/avelino/awesome-go) - Go frameworks, libraries and software.
 * [awesome-java](https://github.com/akullpp/awesome-java) - Build tool, code analysis, database, GUI, IDE, JSON, machine learning, PDF, science, testing and web crawling.
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - JavaScript libraries, resources and shiny things.
+* [awesome-julia](https://github.com/melvin0008/awesome-julia) - List of Julia resources and packages.
 * [awesome-perl](https://github.com/mackee/awesome-perl) - Benchmarks, databases, images, logging, profiling, testing, text processing and web frameworks.
 * [awesome-php](https://github.com/ziadoz/awesome-php) - Frameworks, templating, URL, e-mail, files, imagery, testing, security, documentation, geolocation, date, PDF, search and authentication.
 * [awesome-python](https://github.com/vinta/awesome-python) - Files, dates, text processing, NLP, imagery, audio, video, geolocation, web frameworks, OAuth, web crawling, networking, GUI, game development, testing, science and data analysis and machine learning.
