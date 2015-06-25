@@ -63,6 +63,7 @@ A curated list of awesome curated lists of many topics.
 
 * [awesome-github] - Not yet! Do it yourself!
 * [awesome-flickr] - Not yet! Do it yourself!
+* [awesome-reddit] - Not yet! Do it yourself!
 * [awesome-twitter] - Not yet! Do it yourself!
 * [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) - Datasets, frameworks, libraries and other software related to Wikipedia.
 * [awesome-youtube] - Not yet! Do it yourself!
