@@ -75,6 +75,7 @@ A curated list of awesome curated lists of many topics.
 
 ## Other
 
+* [awesome-movies] - Not yet! Do it yourself!
 * [awesome-music] - Not yet! Do it yourself!
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - Remote working: job boards, articles, communities, and other resources.
 * [awesome-open-company](https://github.com/waldyrious/awesome-open-company) - Companies that embrace values of openness and transparency.
