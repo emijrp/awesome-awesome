@@ -39,7 +39,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-perl](https://github.com/mackee/awesome-perl) - Benchmarks, databases, images, logging, profiling, testing, text processing and web frameworks.
 * [awesome-php](https://github.com/ziadoz/awesome-php) - Frameworks, templating, URL, e-mail, files, imagery, testing, security, documentation, geolocation, date, PDF, search and authentication.
 * [awesome-python](https://github.com/vinta/awesome-python) - Files, dates, text processing, NLP, imagery, audio, video, geolocation, web frameworks, OAuth, web crawling, networking, GUI, game development, testing, science and data analysis and machine learning.
-* [awesome-R] - Not yet! Do it yourself!
+* [awesome-R](https://github.com/qinwf/awesome-R) - packages, IDEs, learning courses.
 * awesome-ruby - Ruby libraries, tools, frameworks and software
     - [@markets](https://github.com/markets/awesome-ruby)
     - [@Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
