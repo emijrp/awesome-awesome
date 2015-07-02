@@ -80,6 +80,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-music] - Not yet! Do it yourself!
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - Remote working: job boards, articles, communities, and other resources.
 * [awesome-open-company](https://github.com/waldyrious/awesome-open-company) - Companies that embrace values of openness and transparency.
+* [awesome-opendata](https://github.com/emijrp/awesome-opendata) - A curated list of awesome opendata repositories.
 
 # Contributing
 
