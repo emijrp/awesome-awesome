@@ -58,7 +58,7 @@ A curated list of awesome curated lists of many topics.
 
 ## Web browsers
 
-* [awesome-firefox] - Not yet! Do it yourself!
+* [awesome-firefox](https://github.com/Hunter-Github/awesome-firefox) - A curated list of resources for and about Mozilla Firefox.
 
 ## Websites
 
