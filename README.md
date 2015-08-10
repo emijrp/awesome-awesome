@@ -62,7 +62,7 @@ A curated list of awesome curated lists of many topics.
 
 ## Websites
 
-* [awesome-github] - Not yet! Do it yourself!
+* [awesome-github](https://github.com/Kikobeats/awesome-github) - Apps, tools, websites, browser extensions.
 * [awesome-flickr] - Not yet! Do it yourself!
 * [awesome-reddit] - Not yet! Do it yourself!
 * [awesome-twitter] - Not yet! Do it yourself!
