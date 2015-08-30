@@ -25,7 +25,7 @@ A curated list of awesome curated lists of many topics.
 
 ## Programming languages
 
-* [awe-some-AutoIt](https://github.com/J2TeaM/awesome-AutoIt) - UDFs, example scripts, tools and useful resources for AutoIt.
+* [awesome-AutoIt](https://github.com/J2TeaM/awesome-AutoIt) - UDFs, example scripts, tools and useful resources for AutoIt.
 * [awesome-clojure](https://github.com/razum2um/awesome-clojure) - Package management, audio, HTTP, database, websocket and testing.
 * [awesome-c](https://github.com/kozross/awesome-c) - C frameworks, libraries, resources and other cool stuff.
 * [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - C/C++ frameworks, libraries, and resources.
