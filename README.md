@@ -83,6 +83,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - Remote working: job boards, articles, communities, and other resources.
 * [awesome-open-company](https://github.com/waldyrious/awesome-open-company) - Companies that embrace values of openness and transparency.
 * [awesome-opendata](https://github.com/emijrp/awesome-opendata) - A curated list of awesome opendata repositories.
+* [awesome-community](https://github.com/peterkokot/awesome-community) - A curated list of awesome programming, development, technical support and discussion channels, groups and communities
 
 # Contributing
 
