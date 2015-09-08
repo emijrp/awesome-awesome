@@ -5,6 +5,7 @@ A curated list of awesome curated lists of many topics.
 - [Awesome Awesome](#awesome-awesome)
     - [Computer management](#computer-management)
     - [Data processing](#data-processing)
+    - [Front-end development](#front-end-development)
     - [Programming languages](#programming-languages)
     - [Sciences](#sciences)
     - [Web browsers](#web-browsers)
@@ -22,6 +23,11 @@ A curated list of awesome curated lists of many topics.
 
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - Big data frameworks, resources and other awesomeness.
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) - Hadoop ecosystem resources.
+
+## Front-end development
+
+* [awesome-dojo](https://github.com/peterkokot/awesome-dojo) - Dojo JavaScript Toolkit
+* [awesome-jquery](https://github.com/peterkokot/awesome-jquery) - A curated list of jQuery plugins and resources.
 
 ## Programming languages
 
@@ -72,7 +78,6 @@ A curated list of awesome curated lists of many topics.
 
 ## Web platforms
 
-* [awesome-dojo](https://github.com/peterkokot/awesome-dojo) - Dojo JavaScript Toolkit
 * [Search Engine Optimization (SEO)](https://github.com/marcobiedermann/search-engine-optimization) - A helpful checklist / collection of Search Engine Optimization (SEO) tips and technics.
 
 ## Other
