@@ -26,8 +26,9 @@ A curated list of awesome curated lists of many topics.
 
 ## Front-end development
 
-* [awesome-dojo](https://github.com/peterkokot/awesome-dojo) - Dojo JavaScript Toolkit
+* [awesome-dojo](https://github.com/peterkokot/awesome-dojo) - Dojo JavaScript Toolkit.
 * [awesome-jquery](https://github.com/peterkokot/awesome-jquery) - A curated list of jQuery plugins and resources.
+* [awesome-rest](https://github.com/marmelab/awesome-rest) - Resources about RESTful API architecture, development, test, and performance.
 
 ## Programming languages
 
