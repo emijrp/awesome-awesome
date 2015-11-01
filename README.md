@@ -10,7 +10,7 @@ A curated list of awesome curated lists of many topics.
     - [Sciences](#sciences)
     - [Web browsers](#web-browsers)
     - [Websites](#websites)
-    - [Web Platforms](#web-platforms)
+    - [Web platforms](#web-platforms)
     - [Other](#other)
 - [Contributing](#contributing)
 
