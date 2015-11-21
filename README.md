@@ -5,13 +5,13 @@ A curated list of awesome curated lists of many topics.
 - [Awesome Awesome](#awesome-awesome)
     - [Computer management](#computer-management)
     - [Data processing](#data-processing)
+    - [Editors](#editors)
     - [Front-end development](#front-end-development)
     - [Programming languages](#programming-languages)
     - [Sciences](#sciences)
     - [Web browsers](#web-browsers)
     - [Websites](#websites)
     - [Web platforms](#web-platforms)
-    - [Editer](#editer)
     - [Other](#other)
 - [Contributing](#contributing)
 
@@ -24,6 +24,11 @@ A curated list of awesome curated lists of many topics.
 
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - Big data frameworks, resources and other awesomeness.
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) - Hadoop ecosystem resources.
+
+## Editors
+
+* [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
+* [awesome-vim](https://github.com/akrawchyk/awesome-vim) - Plugins are organized by section and ordered alphabetically.
 
 ## Front-end development
 
@@ -81,11 +86,6 @@ A curated list of awesome curated lists of many topics.
 ## Web platforms
 
 * [Search Engine Optimization (SEO)](https://github.com/marcobiedermann/search-engine-optimization) - A helpful checklist / collection of Search Engine Optimization (SEO) tips and technics.
-
-## Editer
-
-* [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
-* [awesome-vim](https://github.com/akrawchyk/awesome-vim) - Plugins are organized by section and ordered alphabetically.
 
 ## Other
 
