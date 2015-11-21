@@ -11,6 +11,7 @@ A curated list of awesome curated lists of many topics.
     - [Web browsers](#web-browsers)
     - [Websites](#websites)
     - [Web platforms](#web-platforms)
+    - [Editer](#editer)
     - [Other](#other)
 - [Contributing](#contributing)
 
@@ -80,6 +81,11 @@ A curated list of awesome curated lists of many topics.
 ## Web platforms
 
 * [Search Engine Optimization (SEO)](https://github.com/marcobiedermann/search-engine-optimization) - A helpful checklist / collection of Search Engine Optimization (SEO) tips and technics.
+
+## Editer
+
+* [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
+* [awesome-vim](https://github.com/akrawchyk/awesome-vim) - Plugins are organized by section and ordered alphabetically.
 
 ## Other
 
