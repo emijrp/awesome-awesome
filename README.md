@@ -11,6 +11,7 @@ A curated list of awesome curated lists of many topics.
     - [Web browsers](#web-browsers)
     - [Websites](#websites)
     - [Web platforms](#web-platforms)
+    - [Editer](#editer)
     - [Other](#other)
 - [Contributing](#contributing)
 
