@@ -81,6 +81,11 @@ A curated list of awesome curated lists of many topics.
 
 * [Search Engine Optimization (SEO)](https://github.com/marcobiedermann/search-engine-optimization) - A helpful checklist / collection of Search Engine Optimization (SEO) tips and technics.
 
+## Editer
+
+* [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
+* [awesome-vim](https://github.com/akrawchyk/awesome-vim) - Plugins are organized by section and ordered alphabetically.
+
 ## Other
 
 * [awesome-movies](https://github.com/emijrp/awesome-movies) - Not yet! Do it yourself!
