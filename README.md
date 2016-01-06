@@ -57,6 +57,7 @@ A curated list of awesome curated lists of many topics.
 * awesome-ruby - Ruby libraries, tools, frameworks and software
     - [@markets](https://github.com/markets/awesome-ruby)
     - [@Sdogruyol](https://github.com/Sdogruyol/awesome-ruby)
+* [awesome-rust](https://github.com/kud1ing/awesome-rust) - A curated list of Rust code and resources.
 * [awesome-scala](https://github.com/lauris/awesome-scala) - Scala frameworks, libraries and software.
 * [awesome-swift](https://awesome-swift.zeef.com/robin.eggenkamp) - Swift documentation, projects, tutorials, updates, etc
 
