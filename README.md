@@ -68,6 +68,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-geography] - Not yet! Do it yourself!
 * [awesome-math] - Not yet! Do it yourself!
 * [awesome-physics] - Not yet! Do it yourself!
+* [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - Cryptography and encryption resources.
 * [awesome-space](https://github.com/elburz/awesome-space) - Jobs, Media, Rockets, Research, and other Space-related Open Source resources.
 * [awesome-space-books](https://github.com/Hunter-Github/awesome-space-books) - (mostly) offline reference books on space technology, science and history of spaceflight.
 
