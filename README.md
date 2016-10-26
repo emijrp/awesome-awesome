@@ -27,6 +27,7 @@ A curated list of awesome curated lists of many topics.
 
 ## Editors
 
+* [awesome-atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources.
 * [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
 * [awesome-vim](https://github.com/akrawchyk/awesome-vim) - Plugins are organized by section and ordered alphabetically.
 
