@@ -102,6 +102,7 @@ A curated list of awesome curated lists of many topics.
 * [Internet of Things (IoT)](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources.
 * [awesome-static-analysis](https://github.com/mre/awesome-static-analysis/) - A curated list of static analysis tools, linters and code quality checkers for various programming languages.
 * [awesome-pentester](https://github.com/m1guelpf/awesome-pentester) - A curated list of pentesting resources.
+
 # Contributing
 
 For contributing, [open an issue](https://github.com/emijrp/awesome-awesome/issues) and/or a [pull request](https://github.com/emijrp/awesome-awesome/pulls). Above there are some ideas for missing lists, be bold!
