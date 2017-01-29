@@ -33,8 +33,8 @@ A curated list of awesome curated lists of many topics.
 
 ## Front-end development
 
-* [awesome-dojo](https://github.com/peterkokot/awesome-dojo) - Dojo JavaScript Toolkit.
-* [awesome-jquery](https://github.com/peterkokot/awesome-jquery) - A curated list of jQuery plugins and resources.
+* [awesome-dojo](https://github.com/petk/awesome-dojo) - Dojo JavaScript Toolkit.
+* [awesome-jquery](https://github.com/petk/awesome-jquery) - A curated list of jQuery plugins and resources.
 * [awesome-rest](https://github.com/marmelab/awesome-rest) - Resources about RESTful API architecture, development, test, and performance.
 
 ## Programming languages
@@ -99,7 +99,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - Remote working: job boards, articles, communities, and other resources.
 * [awesome-open-company](https://github.com/waldyrious/awesome-open-company) - Companies that embrace values of openness and transparency.
 * [awesome-opendata](https://github.com/emijrp/awesome-opendata) - A curated list of awesome opendata repositories.
-* [awesome-community](https://github.com/peterkokot/awesome-community) - A curated list of awesome programming, development, technical support and discussion channels, groups and communities
+* [awesome-community](https://github.com/petk/awesome-community) - A curated list of awesome programming, development, technical support and discussion channels, groups and communities
 * [Internet of Things (IoT)](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources.
 * [awesome-static-analysis](https://github.com/mre/awesome-static-analysis/) - A curated list of static analysis tools, linters and code quality checkers for various programming languages.
 * [awesome-pentester](https://github.com/m1guelpf/awesome-pentester) - A curated list of pentesting resources.
