@@ -41,7 +41,7 @@ A curated list of awesome curated lists of many topics.
 
 * [awesome-AutoIt](https://github.com/J2TeaM/awesome-AutoIt) - UDFs, example scripts, tools and useful resources for AutoIt.
 * [awesome-clojure](https://github.com/razum2um/awesome-clojure) - Package management, audio, HTTP, database, websocket and testing.
-* [awesome-c](https://github.com/kozross/awesome-c) - C frameworks, libraries, resources and other cool stuff.
+* [awesome-c](https://notabug.org/koz.ross/awesome-c) - C frameworks, libraries, resources and other cool stuff.
 * [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - C/C++ frameworks, libraries, and resources.
 * [awesome-cmake](https://github.com/onqtam/awesome-cmake) - CMake scripts, modules, examples and others - for C/C++ software.
 * [awesome-cobol](https://github.com/dshimy/awesome-cobol) - Web frameworks, template engine, forms, authentication & OAuth, database, e-mail, messaging, imagery, text processing, machine learning, testing, audio, video and logging.
@@ -99,6 +99,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - Remote working: job boards, articles, communities, and other resources.
 * [awesome-open-company](https://github.com/waldyrious/awesome-open-company) - Companies that embrace values of openness and transparency.
 * [awesome-opendata](https://github.com/emijrp/awesome-opendata) - A curated list of awesome opendata repositories.
+* [awesome-os](https://github.com/jubalh/awesome-os) - A curated list of operating systems and their design.
 * [awesome-community](https://github.com/petk/awesome-community) - A curated list of awesome programming, development, technical support and discussion channels, groups and communities
 * [Internet of Things (IoT)](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources.
 * [awesome-static-analysis](https://github.com/mre/awesome-static-analysis/) - A curated list of static analysis tools, linters and code quality checkers for various programming languages.
