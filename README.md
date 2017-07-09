@@ -93,6 +93,7 @@ A curated list of awesome curated lists of many topics.
 
 ## Other
 
+* [awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies) - A curated list of awesome cryptocurrencies 🎩
 * [awesome-movies](https://github.com/emijrp/awesome-movies) - Not yet! Do it yourself!
 * [awesome-music] - Not yet! Do it yourself!
 * [awesome-nostalgia](https://github.com/emijrp/awesome-nostalgia) - Nostalgia trigger links.
