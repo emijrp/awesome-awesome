@@ -105,6 +105,7 @@ A curated list of awesome curated lists of many topics.
 * [Internet of Things (IoT)](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources.
 * [awesome-static-analysis](https://github.com/mre/awesome-static-analysis/) - A curated list of static analysis tools, linters and code quality checkers for various programming languages.
 * [awesome-pentester](https://github.com/m1guelpf/awesome-pentester) - A curated list of pentesting resources.
+* [awesome-leading-and-managing](https://github.com/LappleApple/awesome-leading-and-managing) - resources on leading people and being a manager. 
 
 # Contributing
 
