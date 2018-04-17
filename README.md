@@ -108,6 +108,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-static-analysis](https://github.com/mre/awesome-static-analysis/) - A curated list of static analysis tools, linters and code quality checkers for various programming languages.
 * [awesome-pentester](https://github.com/m1guelpf/awesome-pentester) - A curated list of pentesting resources.
 * [awesome-unix](https://github.com/sirredbeard/Awesome-UNIX) - History of UNIX software and principles.
+* [awesome-snips](https://github.com/snipsco/awesome-snips) - A curated list of Snips assistants and resources.
 
 # Contributing
 
