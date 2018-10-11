@@ -37,6 +37,7 @@ A curated list of awesome curated lists of many topics.
 
 * [awesome-dojo](https://github.com/petk/awesome-dojo) - Dojo JavaScript Toolkit.
 * [awesome-jquery](https://github.com/petk/awesome-jquery) - A curated list of jQuery plugins and resources.
+* [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 * [awesome-rest](https://github.com/marmelab/awesome-rest) - Resources about RESTful API architecture, development, test, and performance.
 
 ## Programming languages
