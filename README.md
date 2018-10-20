@@ -65,6 +65,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-rust](https://github.com/kud1ing/awesome-rust) - A curated list of Rust code and resources.
 * [awesome-scala](https://github.com/lauris/awesome-scala) - Scala frameworks, libraries and software.
 * [awesome-swift](https://awesome-swift.zeef.com/robin.eggenkamp) - Swift documentation, projects, tutorials, updates, etc
+* [awesome-haskell](https://github.com/krispo/awesome-haskell) - A curated list of Haskell code and resources.
 
 ## Sciences
 
