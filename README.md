@@ -12,6 +12,7 @@ A curated list of awesome curated lists of many topics.
     - [Web browsers](#web-browsers)
     - [Websites](#websites)
     - [Web platforms](#web-platforms)
+    - [Security](#security)
     - [Other](#other)
 - [Contributing](#contributing)
 
@@ -94,6 +95,13 @@ A curated list of awesome curated lists of many topics.
 ## Web platforms
 
 * [Search Engine Optimization (SEO)](https://github.com/marcobiedermann/search-engine-optimization) - A helpful checklist / collection of Search Engine Optimization (SEO) tips and technics.
+
+## Security
+
+* [Vulnerability and Monitoring Tools](https://github.com/sbilly/awesome-security) - A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
+* [Information Security Resources](https://github.com/onlurking/awesome-infosec) - A curated list of awesome information security resources.
+* [Web Security](https://github.com/qazbnm456/awesome-web-security) - Web application vulnerability List
+* [OSX Security](https://github.com/kai5263499/osx-security-awesome) - OSX vulnerability List
 
 ## Other
 
