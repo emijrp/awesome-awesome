@@ -105,6 +105,7 @@ A curated list of awesome curated lists of many topics.
 
 ## Other
 
+* [awesome-bitcoin-payment-processors](https://github.com/alexk111/awesome-bitcoin-payment-processors) - Bitcoin payment processors and stories from merchants using them.
 * [awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies) - A curated list of awesome cryptocurrencies 🎩
 * [awesome-movies](https://github.com/emijrp/awesome-movies) - Not yet! Do it yourself!
 * [awesome-music] - Not yet! Do it yourself!
