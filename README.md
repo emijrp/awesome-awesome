@@ -104,8 +104,11 @@ A curated list of awesome curated lists of many topics.
 * [OSX Security](https://github.com/kai5263499/osx-security-awesome) - OSX vulnerability List
 
 ## Other
+* [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) - A curated list of community detection techniques.
+* [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - A collection of research papers on decision, classification and regression trees with implementations. 
+* [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - A curated list of data mining papers about fraud detection. 
+* [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - A curated list of gradient boosting research papers with implementations.
 * [awesome-graph-embedding](https://github.com/benedekrozemberczki/awesome-graph-embedding) - A curated list of important graph embedding, classification and representation learning papers with implementations.
-* [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) - A curated list of community detection techniques. 
 * [awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies) - A curated list of awesome cryptocurrencies 🎩
 * [awesome-movies](https://github.com/emijrp/awesome-movies) - Not yet! Do it yourself!
 * [awesome-music] - Not yet! Do it yourself!
