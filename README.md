@@ -72,9 +72,13 @@ A curated list of awesome curated lists of many topics.
 ## Sciences
 
 * [awesome-biology] - Not yet! Do it yourself!
-* [awesome-chemistry] - Not yet! Do it yourself!
+* awesome-chemistry
+    - [@lmmentel](https://github.com/lmmentel/awesome-python-chemistry) - A curated list of Python packages related to chemistry
+    - [@hsiaoyi0504](https://github.com/hsiaoyi0504/awesome-cheminformatics) - A curated list of awesome Cheminformatics libraries and software.
 * [awesome-geography] - Not yet! Do it yourself!
+* [awesome-materials-informatics](https://github.com/tilde-lab/awesome-materials-informatics) - Curated list of known efforts in materials informatics
 * [awesome-math] - Not yet! Do it yourself!
+* [awesome-molecular-dynamics](https://github.com/ipudu/awesome-molecular-dynamics) - A curated list of awesome Molecular Dynamics libraries, tools and software. 
 * [awesome-physics] - Not yet! Do it yourself!
 * [awesome-cryptography](https://github.com/sobolevn/awesome-cryptography) - Cryptography and encryption resources.
 * [awesome-space](https://github.com/elburz/awesome-space) - Jobs, Media, Rockets, Research, and other Space-related Open Source resources.
