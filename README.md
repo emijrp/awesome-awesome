@@ -128,6 +128,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-pentester](https://github.com/m1guelpf/awesome-pentester) - A curated list of pentesting resources.
 * [awesome-unix](https://github.com/sirredbeard/Awesome-UNIX) - History of UNIX software and principles.
 * [awesome-snips](https://github.com/snipsco/awesome-snips) - A curated list of Snips assistants and resources.
+* [awsome-python-data-science](https://github.com/krzjoa/awesome-python-data-science) - A curated list of data science software in Python.
 
 # Contributing
 
