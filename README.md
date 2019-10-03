@@ -21,6 +21,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - An up-to-date and curated reading list for designing high scalability, high availability, high stabilityback-end systems.
 * [awesome-shell](https://github.com/alebcay/awesome-shell) - Command-line frameworks, toolkits, guides and gizmos.
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - Backups, configuration management, DNS, IMAP/POP3, LDAP, monitoring, SSH, statistics, troubleshooting, virtualization, VPN and more.
+* [awesome-docker-compose](https://github.com/iedmrc/awesome-docker-compose) - Awesome Docker Compose files. Run a well-prepared applications stack with just a single command.
 
 ## Data processing
 
