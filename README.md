@@ -99,7 +99,7 @@ A curated list of awesome curated lists of many topics.
 
 ## Web platforms
 
-* [Search Engine Optimization (SEO)](https://github.com/marcobiedermann/search-engine-optimization) - A helpful checklist / collection of Search Engine Optimization (SEO) tips and technics.
+* [Search Engine Optimization (SEO)](https://github.com/marcobiedermann/search-engine-optimization) - A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
 
 ## Security
 
