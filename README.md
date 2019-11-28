@@ -16,6 +16,8 @@ A curated list of awesome curated lists of many topics.
     - [Other](#other)
 - [Contributing](#contributing)
 
+## All
+
 * [all-human-knowledge](https://github.com/emijrp/all-human-knowledge) - The catalogue of catalogues...
 
 ## Computer management
