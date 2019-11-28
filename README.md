@@ -16,6 +16,8 @@ A curated list of awesome curated lists of many topics.
     - [Other](#other)
 - [Contributing](#contributing)
 
+* [all-human-knowledge](https://github.com/emijrp/all-human-knowledge) - The catalogue of catalogues...
+
 ## Computer management
 
 * [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) - An up-to-date and curated reading list for designing high scalability, high availability, high stabilityback-end systems.
