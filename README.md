@@ -113,6 +113,7 @@ A curated list of awesome curated lists of many topics.
 * [OSX Security](https://github.com/kai5263499/osx-security-awesome) - OSX vulnerability List
 
 ## Other
+
 * [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) - A curated list of community detection techniques.
 * [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - A collection of research papers on decision, classification and regression trees with implementations. 
 * [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - A curated list of data mining papers about fraud detection. 
@@ -132,6 +133,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-pentester](https://github.com/m1guelpf/awesome-pentester) - A curated list of pentesting resources.
 * [awesome-unix](https://github.com/sirredbeard/Awesome-UNIX) - History of UNIX software and principles.
 * [awesome-snips](https://github.com/snipsco/awesome-snips) - A curated list of Snips assistants and resources.
+* [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 
 # Contributing
 
