@@ -138,4 +138,4 @@ A curated list of awesome curated lists of many topics.
 
 # Contributing
 
-For contributing, [open an issue](https://github.com/emijrp/awesome-awesome/issues) and/or a [pull request](https://github.com/emijrp/awesome-awesome/pulls). Above there are some ideas for missing lists, be bold!
+For contributing, [open an issue](https://github.com/emijrp/awesome-awesome/issues) and/or a [pull request](https://github.com/emijrp/awesome-awesome/pulls). Above there are some ideas for missing lists. Thanks.
