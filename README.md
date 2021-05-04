@@ -74,6 +74,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-scala](https://github.com/lauris/awesome-scala) - Scala frameworks, libraries and software.
 * [awesome-swift](https://awesome-swift.zeef.com/robin.eggenkamp) - Swift documentation, projects, tutorials, updates, etc
 * [awesome-haskell](https://github.com/krispo/awesome-haskell) - A curated list of Haskell code and resources.
+* [awesome-typescript](https://github.com/dzharii/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
 
 ## Sciences
 
