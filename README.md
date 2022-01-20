@@ -121,6 +121,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - A curated list of data mining papers about fraud detection. 
 * [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - A curated list of gradient boosting research papers with implementations.
 * [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - A curated list of important graph embedding, classification and representation learning papers with implementations.
+* [awesome-metric-learning](https://github.com/qdrant/awesome-metric-learning) - A curated list of awesome practical Metric Learning resources and its applications/
 * [awesome-monte-carlo-tree-search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) - A curated list of important Monte Carlo tree search papers with implementations.
 * [awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies) - A curated list of awesome cryptocurrencies 🎩
 * [awesome-movies](https://github.com/emijrp/awesome-movies) - Not yet! Do it yourself!
