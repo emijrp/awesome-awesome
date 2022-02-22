@@ -137,6 +137,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-unix](https://github.com/sirredbeard/Awesome-UNIX) - History of UNIX software and principles.
 * [awesome-snips](https://github.com/snipsco/awesome-snips) - A curated list of Snips assistants and resources.
 * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
+* [awesome-jsonschema](https://github.com/jviotti/awesome-jsonschema) - A curated list of awesome JSON Schema resources, tutorials, tools, and more.
 
 # Contributing
 
