@@ -38,6 +38,7 @@ A curated list of awesome curated lists of many topics.
 
 * [awesome-atom](https://github.com/mehcode/awesome-atom) - A curated list of delightful Atom packages and resources.
 * [awesome-emacs](https://github.com/emacs-tw/awesome-emacs) - A community driven list of useful Emacs packages, libraries and others.
+* [awesome-jetbrains](https://github.com/championswimmer/awesome-jetbrains) - A collection of awesome fonts and color schemes to be used in Jetbrains IDEs.
 * [awesome-vim](https://github.com/akrawchyk/awesome-vim) - Plugins are organized by section and ordered alphabetically.
 * [awesome-vscode](https://github.com/viatsko/awesome-vscode) - A curated list of delightful VS Code packages and resources.
 
@@ -53,11 +54,13 @@ A curated list of awesome curated lists of many topics.
 * [awesome-AutoIt](https://github.com/J2TeaM/awesome-AutoIt) - UDFs, example scripts, tools and useful resources for AutoIt.
 * [awesome-clojure](https://github.com/razum2um/awesome-clojure) - Package management, audio, HTTP, database, websocket and testing.
 * [awesome-c](https://notabug.org/koz.ross/awesome-c) - C frameworks, libraries, resources and other cool stuff.
+* [awesome-c-sharp](https://github.com/uhub/awesome-c-sharp) - C# frameworks, libraries and software.
 * [awesome-cpp](https://github.com/fffaraz/awesome-cpp) - C/C++ frameworks, libraries, and resources.
 * [awesome-cmake](https://github.com/onqtam/awesome-cmake) - CMake scripts, modules, examples and others - for C/C++ software.
 * [awesome-cobol](https://github.com/mickaelandrieu/awesome-cobol) - Web frameworks, template engine, forms, authentication & OAuth, database, e-mail, messaging, imagery, text processing, machine learning, testing, audio, video and logging.
 * [awesome-common-lisp](https://github.com/kozross/awesome-cl) - Common Lisp frameworks, libraries, resources and other shinies.
 * [awesome-d](https://github.com/zhaopuming/awesome-d) - Build tools, compilers, IDE, GUI, database clients.
+* [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - .NET libraries, tools, frameworks and software.
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir) - Elixir libraries, resources and shiny things.
 * [awesome-go](https://github.com/avelino/awesome-go) - Go frameworks, libraries and software.
 * [awesome-java](https://github.com/akullpp/awesome-java) - Build tool, code analysis, database, GUI, IDE, JSON, machine learning, PDF, science, testing and web crawling.
