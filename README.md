@@ -48,7 +48,8 @@ A curated list of awesome curated lists of many topics.
 * [awesome-jquery](https://github.com/petk/awesome-jquery) - A curated list of jQuery plugins and resources.
 * [awesome-react](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
 * [awesome-rest](https://github.com/marmelab/awesome-rest) - Resources about RESTful API architecture, development, test, and performance.
-
+* [awesome-http](https://github.com/easybase/awesome-http) - A curated list of the best HTTP clients for various languages & libraries.
+* 
 ## Programming languages
 
 * [awesome-AutoIt](https://github.com/J2TeaM/awesome-AutoIt) - UDFs, example scripts, tools and useful resources for AutoIt.
