@@ -30,6 +30,7 @@ A curated list of awesome curated lists of many topics.
 
 ## Data processing
 
+* [awesome-celery](https://github.com/svfat/awesome-celery) - Celery task queue.
 * [awesome-storage](https://github.com/okhosting/awesome-storage/) - A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - Big data frameworks, resources and other awesomeness.
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) - Hadoop ecosystem resources.
