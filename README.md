@@ -107,6 +107,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-twitter] - Not yet! Do it yourself!
 * [awesome-wikipedia](https://github.com/emijrp/awesome-wikipedia) - Datasets, frameworks, libraries and other software related to Wikipedia.
 * [awesome-youtube] - Not yet! Do it yourself!
+* [AI Collection](https://github.com/ai-collection/ai-collection) - A Collection of Awesome Generative AI Applications
 
 ## Web platforms
 
