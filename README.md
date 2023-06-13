@@ -80,6 +80,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-swift](https://awesome-swift.zeef.com/robin.eggenkamp) - Swift documentation, projects, tutorials, updates, etc
 * [awesome-haskell](https://github.com/krispo/awesome-haskell) - A curated list of Haskell code and resources.
 * [awesome-typescript](https://github.com/dzharii/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
+* [Build your own X](https://github.com/codecrafters-io/build-your-own-x) — a curated list of resources on recreating complex technologies from scratch, in any language
 
 ## Sciences
 
