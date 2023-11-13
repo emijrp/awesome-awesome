@@ -113,6 +113,7 @@ A curated list of awesome curated lists of many topics.
 ## Web platforms
 
 * [Search Engine Optimization (SEO)](https://github.com/marcobiedermann/search-engine-optimization) - A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
+* [Custom ChatGPTs](https://github.com/taranjeet/awesome-gpts/) - A collection of all GPTs created by the community.
 
 ## Security
 
