@@ -123,6 +123,7 @@ A curated list of awesome curated lists of many topics.
 
 ## Other
 
+* [awesome-topics](https://github.com/Mahmoudz/awesome-topics) - A curated list of awesome technical topics from the software world, explained concisely for all levels of expertise.
 * [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) - A curated list of community detection techniques.
 * [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - A collection of research papers on decision, classification and regression trees with implementations. 
 * [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - A curated list of data mining papers about fraud detection. 
