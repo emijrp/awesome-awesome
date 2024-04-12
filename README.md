@@ -82,7 +82,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-typescript](https://github.com/dzharii/awesome-typescript) - A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript
 
 ## Sciences
-
+* [awesome-aerospace-engineering](https://github.com/mahran-sayed/awesome-aerospace-engineering) - A list of aerospace engineering learning resources 🚀✈️
 * [awesome-biology] - Not yet! Do it yourself!
 * awesome-chemistry
     - [@lmmentel](https://github.com/lmmentel/awesome-python-chemistry) - A curated list of Python packages related to chemistry
