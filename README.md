@@ -65,6 +65,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-dotnet](https://github.com/quozd/awesome-dotnet) - .NET libraries, tools, frameworks and software.
 * [awesome-elixir](https://github.com/h4cc/awesome-elixir) - Elixir libraries, resources and shiny things.
 * [awesome-go](https://github.com/avelino/awesome-go) - Go frameworks, libraries and software.
+* [awesome-gleam](https://github.com/gleam-lang/awesome-gleam) - Gleam frameworks, libraries and software.
 * [awesome-java](https://github.com/akullpp/awesome-java) - Build tool, code analysis, database, GUI, IDE, JSON, machine learning, PDF, science, testing and web crawling.
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - JavaScript libraries, resources and shiny things.
 * [awesome-julia](https://github.com/melvin0008/awesome-julia) - List of Julia resources and packages.
