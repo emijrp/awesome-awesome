@@ -131,6 +131,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-metric-learning](https://github.com/qdrant/awesome-metric-learning) - A curated list of awesome practical Metric Learning resources and its applications.
 * [awesome-monte-carlo-tree-search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) - A curated list of important Monte Carlo tree search papers with implementations.
 * [awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies) - A curated list of awesome cryptocurrencies 🎩
+* [awesome-cooklang-recipes](https://github.com/cooklang/awesome-cooklang-recipes) - A curated list of recipes written in Cooklang markup language.
 * [awesome-movies](https://github.com/emijrp/awesome-movies) - Not yet! Do it yourself!
 * [awesome-music] - Not yet! Do it yourself!
 * [awesome-nostalgia](https://github.com/emijrp/awesome-nostalgia) - Nostalgia trigger links.
