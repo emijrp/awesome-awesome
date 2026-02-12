@@ -139,6 +139,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-opendata](https://github.com/emijrp/awesome-opendata) - A curated list of awesome opendata repositories.
 * [awesome-os](https://github.com/jubalh/awesome-os) - A curated list of operating systems and their design.
 * [awesome-community](https://github.com/petk/awesome-community) - A curated list of awesome programming, development, technical support and discussion channels, groups and communities
+* [awesome-code-docs](https://github.com/johnxie/awesome-code-docs) - Deep-dive tutorials for popular open-source projects.
 * [Internet of Things (IoT)](https://github.com/HQarroum/awesome-iot) - A curated list of awesome Internet of Things projects and resources.
 * [awesome-static-analysis](https://github.com/mre/awesome-static-analysis/) - A curated list of static analysis tools, linters and code quality checkers for various programming languages.
 * [awesome-pentester](https://github.com/m1guelpf/awesome-pentester) - A curated list of pentesting resources.
