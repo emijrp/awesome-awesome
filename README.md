@@ -15,6 +15,7 @@ A curated list of awesome curated lists of many topics.
     - [Security](#security)
     - [Other](#other)
 - [Contributing](#contributing)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for multi-agent development orchestration, automated code review, and workflow coordination. MIT licensed.
 
 ## All
 
