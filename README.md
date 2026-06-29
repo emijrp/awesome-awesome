@@ -248,6 +248,7 @@ awesome-awesome
 ## Game
 
 - [games](https://github.com/leereilly/games)
+- [awesome-meccha-chameleon-hide-spots](https://github.com/zlc000190/awesome-meccha-chameleon-hide-spots)
 - [Unity](https://github.com/RyanNielson/awesome-unity)
 
 ## Networking and Security
