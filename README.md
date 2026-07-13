@@ -145,6 +145,8 @@ A curated list of awesome curated lists of many topics.
 * [awesome-unix](https://github.com/sirredbeard/Awesome-UNIX) - History of UNIX software and principles.
 * [awesome-snips](https://github.com/snipsco/awesome-snips) - A curated list of Snips assistants and resources.
 * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
+* [Awesome Developer Conferences](https://github.com/Himish04?tab=repositories) - A daily updated directory of developer, DevRel, cloud native, and platform engineering conferences taking place all over the world, separated by regions.
+* [Awesome Tech Newsletter](https://github.com/Infrasity-Labs/awesome-tech-newsletter) - A curated, community-driven list of the best tech, software engineering, and developer marketing newsletters. 
 
 # Contributing
 
