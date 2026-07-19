@@ -120,6 +120,7 @@ A curated list of awesome curated lists of many topics.
 * [Information Security Resources](https://github.com/onlurking/awesome-infosec) - A curated list of awesome information security resources.
 * [Web Security](https://github.com/qazbnm456/awesome-web-security) - Web application vulnerability List
 * [OSX Security](https://github.com/kai5263499/osx-security-awesome) - OSX vulnerability List
+* [AI Coding Sandboxes](https://github.com/fhiltscher/awesome-ai-coding-sandboxes) - Security-posture-first list of sandboxes for running AI coding agents' code, ranked by isolation, egress control and secrets handling.
 
 ## Other
 
