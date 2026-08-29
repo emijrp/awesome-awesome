@@ -34,6 +34,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-storage](https://github.com/okhosting/awesome-storage/) - A curated list of storage open source tools. Backups, redundancy, sharing, distribution, encryption, etc.
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata) - Big data frameworks, resources and other awesomeness.
 * [awesome-hadoop](https://github.com/youngwookim/awesome-hadoop) - Hadoop ecosystem resources.
+* [awesome-video-to-slides](https://github.com/larry-xue/awesome-video-to-slides) - Tools for recovering the slides shown in a recorded talk, and for generating a new deck from video.
 
 ## Editors
 
