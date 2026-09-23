@@ -123,8 +123,10 @@ A curated list of awesome curated lists of many topics.
 
 ## Other
 
+* [awesome-bitcoin-culture](https://github.com/itstomekk/awesome-bitcoin-culture) - Curated list of creative work in Bitcoin: film, art, music, literature, events.
+* [awesome-bitcoin-events](https://github.com/itstomekk/awesome-bitcoin-events) - Calendar of international Bitcoin conferences, festivals, retreats, and meetups.
 * [awesome-community-detection](https://github.com/benedekrozemberczki/awesome-community-detection) - A curated list of community detection techniques.
-* [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - A collection of research papers on decision, classification and regression trees with implementations. 
+* [awesome-decision-tree-papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers) - A collection of research papers on decision, classification and regression trees with implementations.
 * [awesome-fraud-detection-papers](https://github.com/benedekrozemberczki/awesome-fraud-detection-papers) - A curated list of data mining papers about fraud detection. 
 * [awesome-gradient-boosting-papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers) - A curated list of gradient boosting research papers with implementations.
 * [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - A curated list of important graph embedding, classification and representation learning papers with implementations.
