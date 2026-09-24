@@ -130,6 +130,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-graph-classification](https://github.com/benedekrozemberczki/awesome-graph-classification) - A curated list of important graph embedding, classification and representation learning papers with implementations.
 * [awesome-metric-learning](https://github.com/qdrant/awesome-metric-learning) - A curated list of awesome practical Metric Learning resources and its applications.
 * [awesome-monte-carlo-tree-search](https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers) - A curated list of important Monte Carlo tree search papers with implementations.
+* [awesome-typesafe-jev](https://github.com/AbdelStark/awesome-typesafe-jev) - A source-backed field guide to Jev's typed decision model, with SDKs, community projects, and independent research.
 * [awesome-cryptocurrencies](https://github.com/kasketis/awesome-cryptocurrencies) - A curated list of awesome cryptocurrencies 🎩
 * [awesome-movies](https://github.com/emijrp/awesome-movies) - Not yet! Do it yourself!
 * [awesome-music] - Not yet! Do it yourself!
