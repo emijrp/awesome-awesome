@@ -144,6 +144,7 @@ A curated list of awesome curated lists of many topics.
 * [awesome-pentester](https://github.com/m1guelpf/awesome-pentester) - A curated list of pentesting resources.
 * [awesome-unix](https://github.com/sirredbeard/Awesome-UNIX) - History of UNIX software and principles.
 * [awesome-snips](https://github.com/snipsco/awesome-snips) - A curated list of Snips assistants and resources.
+* [awesome-spain](https://github.com/GeiserX/awesome-spain) - Open source software for Spain including e-government, tax systems, and autonomous communities.
 * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
 
 # Contributing
