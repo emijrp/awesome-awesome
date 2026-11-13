@@ -145,6 +145,10 @@ A curated list of awesome curated lists of many topics.
 * [awesome-unix](https://github.com/sirredbeard/Awesome-UNIX) - History of UNIX software and principles.
 * [awesome-snips](https://github.com/snipsco/awesome-snips) - A curated list of Snips assistants and resources.
 * [awesome-public-datasets](https://github.com/awesomedata/awesome-public-datasets) - A topic-centric list of HQ open datasets.
+* [awesome-student-resources](https://github.com/StudentSuite/awesome-student-resources) - Software, tools, textbooks, and channels for students anywhere.
+* [awesome-study-resources](https://github.com/StudentSuite/awesome-study-resources) - Exam prep and subject study material for IB, IGCSE, GCSE, A-Level, AP, SAT, and ACT.
+* [awesome-sat-resources](https://github.com/StudentSuite/awesome-sat-resources) - Official practice, mock tests, question banks, and study guides for the digital SAT.
+* [awesome-skills-plugins-for-students](https://github.com/StudentSuite/awesome-skills-plugins-for-students) - AI coding agent skills and plugins for student coursework, exam prep, and college applications.
 
 # Contributing
 
